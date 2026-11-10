@@ -15,7 +15,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>3C6C2652-9FA8-4D48-9F55-52B19F0D24B2</string>
+    <string>7A3AE377-CD27-493F-9342-0BC29EBA5A87</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadRemovalDisallowed</key>
@@ -23,8 +23,7 @@
     <key>ConsentText</key>
     <dict>
         <key>default</key>
-        <string>BẢN QUYỀN LOCKET GOLD VIP MIỄN PHÍ VĨNH VIỄN
-Phát hành bởi: Nguyễn Mạnh Hùng✨</string>
+        <string>Phát hành bởi: Nguyễn Mạnh Hùng✨</string>
     </dict>
     <key>PayloadContent</key>
     <array>
@@ -45,7 +44,7 @@ Phát hành bởi: Nguyễn Mạnh Hùng✨</string>
             <key>PayloadType</key>
             <string>com.apple.security.root</string>
             <key>PayloadUUID</key>
-            <string>80330486-E9C7-4EBB-83E8-1BCA82B6E780</string>
+            <string>3D08BD6A-8BBB-4000-A0EB-12E9841B9299</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
