@@ -56,11 +56,10 @@ Phát hành bởi: Nguyễn Mạnh Hùng✨</string>
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
                 <key>ServerURL</key>
-                <string>https://locketlam-free.leanhminh.io.vn/dns/sever-free-v2/</string>
+                <string>https://d.adguard-dns.com/dns-query/7eced2bd</string>
                 <key>ServerAddresses</key>
                 <array>
-                    <string>172.67.146.35</string>
-                    <string>104.21.10.172</string>
+                    <string>172.64.150.1</string>
                     <string>1.1.1.1</string>
                     <string>8.8.8.8</string>
                 </array>
@@ -86,7 +85,7 @@ Phát hành bởi: Nguyễn Mạnh Hùng✨</string>
             <key>PayloadOrganization</key>
             <string>Locket by Nguyễn Mạnh Hùng✨</string>
             <key>PayloadIdentifier</key>
-            <string>com.lamdev.dnsSettings.managed.v2</string>
+            <string>com.manhhung.dnsSettings.managed.v2</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
