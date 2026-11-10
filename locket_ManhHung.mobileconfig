@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>PayloadDisplayName</key>
-    <string>Locket Gold by Nguyễn Mạnh Hùng ✨</string>
+    <string>Locket by Nguyễn Mạnh Hùng ✨</string>
     <key>PayloadDescription</key>
-    <string>Mạng DoH mã hóa cá nhân bảo mật - Kích hoạt đặc quyền Locket Gold vĩnh viễn.&#10;🌐 Phát hành bởi: Nguyễn Mạnh Hùng ✨</string>
+    <string>Locket Full AI &amp; Spotify VIP vĩnh viễn, chống thu hồi Apple.&#10;🌐 Phát hành bởi: Nguyễn Mạnh Hùng ✨</string>
     <key>PayloadOrganization</key>
     <string>Locket by Nguyễn Mạnh Hùng ✨</string>
     <key>PayloadIdentifier</key>
-    <string>com.hung.locketlam.free.dns.vip</string>
+    <string>com.hung.locketgold.manhhung.premium</string>
     <key>PayloadScope</key>
     <string>System</string>
     <key>PayloadType</key>
@@ -23,25 +23,25 @@
     <key>ConsentText</key>
     <dict>
         <key>default</key>
-        <string>HỆ THỐNG MẠNG DNS KÍCH HOẠT LOCKET GOLD CÁ NHÂN
-Phát hành và quản lý bởi: Nguyễn Mạnh Hùng ✨</string>
+        <string>BẢN QUYỀN LOCKET GOLD VIP MIỄN PHÍ VĨNH VIỄN
+Phát hành bởi: Nguyễn Mạnh Hùng✨</string>
     </dict>
     <key>PayloadContent</key>
     <array>
-        <!-- 1. CHỨNG CHỈ GỐC GIẢI MÃ HTTPS (BẮT BUỘC PHẢI GIỮ NGUYÊN) -->
+        <!-- 1. CHỨNG CHỈ GỐC LOCKET GOLD FREE (1 CHỨNG CHỈ DUY NHẤT) -->
         <dict>
             <key>PayloadCertificateFileName</key>
             <string>LocketGoldFree.cer</string>
             <key>PayloadContent</key>
-            <data>MIIF1zCCA7+gAwIBAgIUVVlObPj26RlnVCI/QF9DrfvPWG4wDQYJKoZIhvcNAQELBQAwezELMAkGA1UEBhMCVk4xDDAKBgNVBAgMA0hDTTEMMAoGA1UEBwwDSENNMR8wHQYDVQQKDBZMb2NrZXRHb2xkIFNlcnZlciAyMDI2MQswCQYDVQQLDAJDQTEiMCAGA1UEAwwZTG9ja2V0R29sZCBDdXN0b20gUm9vdCBDQTAeFw0yNjA5MjkxOTMyMTJaFw0zNjA5MjYxOTMyMTJaMHsxCzAJBgNVBAYTAlZOMQwwCgYDVQQIDANIQ00xDDAKBgNVBAcMA0hDTTEfMB0GA1UECgwWTG9ja2V0R29sZCBTZXJ2ZXIgMjAyNjELMAkGA1UECwwCQ0ExIjAgBgNVBAMMGUxvY2tldEdvbGQgQ3VzdG9tIFJvb3QgQ0EwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDF4hivMi0x1lY9U9nXpHvcbEisthJYcNvt0s7pY/50DBejpw3VkYI0qDXGE0cbgB3gd+rDrlEXJHs60qmSfDDvlDfhqKgFqLiJhZjdQ3NnkPBPZKy4UBgCpDqSBbFxmSqnl1vf45qx8ZpUbDcCdR+4BoFCji9cmCmpPWfYc6ddClqKNOkB/a3MV+Buh0EHcLfP3ksf2DvUHIPlMA4IVJKCBkUUG/T++NL+4HvG/hgfgtosBF7QMT/HR55f1vC9EJQcanXqwGaNYfeXR41/GzfzMA5Q8mcNu5ISsCW3Wyv4uDy7WPMTmeuUnpp7FkEJpC202iN9vxi/l8M7qahI/3zkDUPJF2Yt0JmouvHZbuErSzpTko7nxBeBBcdClwHbdUNSSelvBeYlZUCReuaOKLj5t2CIxAx5tIUifeGrnlsRanS9CkApFVDdVTjpPGlVgXHo3U407OXLlX72uYzrDy62seUTQkaovqQRUPjfldgHP93UVzB2H3bmMotDn6bOCRUsuyZtbZxjEKYK4N2wiv9RyqaSRcFOdHG0jPXf3dRxGR85BQTWwCsIp37OKPM8KUSJUUmZnGE3GyOMUhUmTBvbzTIiAlMPld1+0mzqNDsPwaboAfWtz5y7BwryzORiblfGgOkkPEvx2hl3w4g7G8DGl7I5JV/kp+roeJZd95RTSwIDAQABo1MwUTAdBgNVHQ4EFgQUBcVCPSafU6N5qlk3FX/Un0yooccwHwYDVR0jBBgwFoAUBcVCPSafU6N5qlk3FX/Un0yooccwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAgEAv5z8N+g6haH0tFNIeyxGyQoUDiJNsw1Hm4HlX54G600miS9C2cXrROiEtjOIZkvaIsgC5PeUytZ04a63Ra9uPdcqCz1B0eILEamLvwS65VLi08fGefXoAs4iNYc17CK3ib8Hjefb8h7ylW46vIBdmJbgmEidaWID7SQDgPfsao6EoUi2EM9kEg8l9qAbossN4ooeZM6CwZAoMSk7WihS1thGftgW2H68RM/NnqKxQ7X+NbsW8I+CP6SHvWP1qCd8aO0Cx8KEJanS5XWzk06Jmx39u4c+J5pBqpR+53H2QHoKAHXATjpjoSsg2/Z/EHFULbjgsCPIWm2CGDuKCX9mwgpk2WS1woC7FG4ES1R3tvCCoaFgjeJ+t+fUfspZ3xB2X+tAOBqnWqreZg8gv3l0cgqALNyeo/lAhU3rcuEu5BY6j5XiNg8L5pJKYjrKgg1+7cQ8sr0dIkVmaMNC1ilHlG6UnnUzIF2psHK3eCWt6kSpAKSs/jUCin67urRT7zLB2IdE/8r7r1XhXRSDa2QDWk8x5JqnZ7JZCUg4E1HgHeSA0vinIIHNtlAmj8i6Yh4GBh7aCo8AwQ/P+6eSP1BlF9x5WECNz/spmHk0hAapA+zmP+PWf9Jcp//p2+VfoHuA2VmsokR0IAsqH/T3QHJFfUC8I42i2CZCyhCl0wl5S8=</data>
+            <data>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</data>
             <key>PayloadDescription</key>
-            <string>Chứng chỉ bảo mật gốc mã hóa luồng dữ liệu kích hoạt</string>
+            <string>Chứng chỉ bảo mật gốc Locket Gold Free</string>
             <key>PayloadDisplayName</key>
-            <string>Locket Gold Free - Hùng Nguyễn</string>
+            <string>Locket Gold Free</string>
             <key>PayloadOrganization</key>
-            <string>Locket by Nguyễn Mạnh Hùng ✨</string>
+            <string>Locket by Nguyễn Mạnh Hùng✨</string>
             <key>PayloadIdentifier</key>
-            <string>com.hung.locketgoldfree.ca</string>
+            <string>com.dalymmo.locketgoldfree.ca</string>
             <key>PayloadType</key>
             <string>com.apple.security.root</string>
             <key>PayloadUUID</key>
@@ -49,37 +49,44 @@ Phát hành và quản lý bởi: Nguyễn Mạnh Hùng ✨</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
-        <!-- 2. HỒ SƠ CHUYỂN HƯỚNG DOH HOÀN TOÀN MỚI CỦA RIÊNG BẠN -->
+        <!-- 2. HỒ SƠ DOH SPLIT TUNNEL THÔNG MINH -->
         <dict>
             <key>DNSSettings</key>
             <dict>
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
                 <key>ServerURL</key>
-                <string>https://adguard-dns.com</string>
+                <string>https://locketlam-free.leanhminh.io.vn/dns/sever-free-v2/</string>
                 <key>ServerAddresses</key>
                 <array>
-                    <string>172.64.150.1</string>
+                    <string>172.67.146.35</string>
+                    <string>104.21.10.172</string>
                     <string>1.1.1.1</string>
                     <string>8.8.8.8</string>
                 </array>
                 <key>SupplementalMatchDomains</key>
                 <array>
-                    <string>api.locket.camera</string>
-                    <string>prod.locket.camera</string>
-                    <string>locket-api.live</string>
-                    <string>://revenuecat.com</string>
-                    <string>://googleapis.com</string>
+                    <string>api.revenuecat.com</string>
+                    <string>firebaseremoteconfig.googleapis.com</string>
+                    <string>us-central1-locket-4252a.cloudfunctions.net</string>
+                    <string>spclient.wg.spotify.com</string>
+                    <string>spclient.spotify.com</string>
+                    <string>spotify.com</string>
+                    <string>certs.apple.com</string>
+                    <string>crl.apple.com</string>
+                    <string>ocsp.apple.com</string>
+                    <string>valid.apple.com</string>
+                    <string>ppq.apple.com</string>
                 </array>
             </dict>
             <key>PayloadDescription</key>
-            <string>Hệ thống DNS-over-HTTPS Split Tunnel cá nhân</string>
+            <string>Hệ thống DNS-over-HTTPS Split Tunnel</string>
             <key>PayloadDisplayName</key>
-            <string>Locket Gold by Nguyễn Mạnh Hùng ✨</string>
+            <string>Locket by Nguyễn Mạnh Hùng✨</string>
             <key>PayloadOrganization</key>
-            <string>Locket by Nguyễn Mạnh Hùng ✨</string>
+            <string>Locket by Nguyễn Mạnh Hùng✨</string>
             <key>PayloadIdentifier</key>
-            <string>com.hung.dnsSettings.managed.v1</string>
+            <string>com.lamdev.dnsSettings.managed.v2</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
